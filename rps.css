@@ -1,0 +1,19 @@
+.button{width: 500px; height: 200px }
+#fire {background: url(Fire.png)}
+#water {background: url(Water.png)}
+#grass {background: url(Grass.png)}
+#flying {background: url(Flying.png)}
+#electric {background: url(Electric.png)}
+#ground {background: url(Ground.png)}
+#normal {background: url(Normal.png); width: 500px; height: 200px}
+#steel {background: url(Steel.png)}
+#rock {background: url(Rock.png)}
+#ice {background: url(Ice.png)}
+#fighting {background: url(Fighting.png)}
+#psychic {background: url(Psychic.png)}
+#poison {background: url(Poison.png)}
+#dark {background: url(Dark.png)}
+#ghost {background: url(Ghost.png)}
+#dragon {background: url(Dragon.png)}
+#fairy {background: url(Fairy.png)}
+#bug {background: url(Bug.png)}
